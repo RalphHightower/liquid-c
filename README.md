@@ -1,6 +1,8 @@
 # Liquid::C
 [![Build Status](https://travis-ci.org/Shopify/liquid-c.svg?branch=main)](https://travis-ci.org/Shopify/liquid-c)
 
+> ⚠️ **Warning: This project is no longer maintained. Use at your own risk and consider looking for alternatives or forks that are currently maintained.**
+
 Partial native implementation of the liquid ruby gem in C.
 
 ## Installation
